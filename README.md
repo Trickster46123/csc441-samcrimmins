@@ -15,5 +15,6 @@ I want to learn how to build my own app and website, use real developer tools, a
 
 ## Notes to future me
 Things I got stuck on, so I don't get stuck again:
+I got tripped up learning some of the PowerShell commands and figuring out how to move my csc441 folder into my OneDrive Desktop.
 -
 
