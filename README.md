@@ -24,11 +24,8 @@ I got tripped up learning some of the PowerShell commands and figuring out how t
 
 \## Terminal commands I learned
 
-\-pwd
-
-\-ls
-
-\-cd
-
-\-mkdir
+* pwd
+* ls
+* cd
+* mkdir
 
