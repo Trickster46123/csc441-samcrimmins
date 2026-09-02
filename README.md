@@ -37,3 +37,15 @@ I got tripped up learning some of the PowerShell commands and figuring out how t
 * improve my understanding of practical software development
 * learn how to use branches better in GitHub.
 
+
+
+\## Tools I have installed
+
+\- \[X] Git
+
+\- \[ ] IntelliJ IDEA Community Edition
+
+\- \[ ] Android Studio
+
+\- \[X] VS Code
+
