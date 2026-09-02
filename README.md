@@ -29,3 +29,11 @@ I got tripped up learning some of the PowerShell commands and figuring out how t
 * cd
 * mkdir
 
+
+
+\## my goals for this course
+
+* become more confident in git and GitHub
+* improve my understanding of practical software development
+* learn how to use branches better in GitHub.
+
