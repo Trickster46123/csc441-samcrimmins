@@ -35,7 +35,7 @@ I got tripped up learning some of the PowerShell commands and figuring out how t
 
 * become more confident in git and GitHub
 * improve my understanding of practical software development
-* learn how to use branches better in GitHub.
+* learn how to master branches and pull requests in GitHub.
 
 
 
